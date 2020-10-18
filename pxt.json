@@ -1,0 +1,19 @@
+{
+    "name": "banana-extension",
+    "version": "0.0.1",
+    "description": "An example extension with a banana flavour.",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:e56cc620-aab9-4fcc-fd40-d902c34b20fa"
+}
